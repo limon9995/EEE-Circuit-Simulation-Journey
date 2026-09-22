@@ -69,3 +69,45 @@ Simulation Setup
 PSpice Simulation
     ↓
 Results
+
+
+⚠️ Avoid Unofficial Downloads
+
+Do not download OrCAD X from:
+
+Cracked software websites
+Torrent websites
+Random file-hosting websites
+Unverified Google Drive links
+Unknown third-party download sites
+
+Using unofficial software can create security, licensing, and installation problems.
+
+🔐 License Information
+
+Your Cadence account determines which products and features are available to you.
+
+License duration and product availability may vary depending on the academic program.
+
+Never publish the following information in a public GitHub repository:
+
+License number
+Support ID
+Password
+License file
+Private account information
+🚀 Next Step
+
+After downloading the OrCAD X installer, continue to:
+
+➡️ 03-Installation.md
+
+There we will document the complete installation process step by step.
+
+📚 Learning Journey
+
+Our overall workflow is:
+
+Learn → Draw → Calculate → Simulate → Verify → Debug → Build
+
+The goal is not only to learn a software tool, but to develop practical EEE circuit analysis skills.
